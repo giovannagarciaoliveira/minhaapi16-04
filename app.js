@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 
 import plantRoutes from './src/routes/plantRoutes.js';
-import typesRoutes from './src/routes/typesRoutes.js'
+import typesRoutes from './src/routes/typeRoutes.js';
 
 const app = express();
 
